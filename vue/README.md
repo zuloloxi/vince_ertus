@@ -963,9 +963,9 @@ Par exemple :
 - À la création du composant `ProductList`, chargez la liste des produits grâce au `ProductService` créé précédemment.
 - Utilisez une "prop" pour passer le produit à afficher à `ProductItem`.
 - Dans `ProductList`, séparez la liste des produits en 3 sections, basées sur la valeur de la propriété `product.type` :
-  - Entrées (`product.type === 'STARTER`)
-  - Plats (`product.type === 'MAIN_COURSE`)
-  - Desserts (`product.type === 'DESSERT`)
+  - Entrées (`product.type === 'STARTER'`)
+  - Plats (`product.type === 'MAIN_COURSE'`)
+  - Desserts (`product.type === 'DESSERT'`)
 - Dans `ProductItem`, utilisez des propriétés calculées pour tronquer la longueur du titre à 20 caractères et la longueur de la description à 100 caractères.
 
 
