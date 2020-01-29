@@ -1,4 +1,4 @@
-# 📚 Formation JS FRONTEND
+# Merci ! 😊
 
 Merci de votre participation à cette formation. J’espère que celle-ci a répondu à vos attentes.
 
