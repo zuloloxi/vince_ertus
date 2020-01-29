@@ -1,37 +1,13 @@
-# 📚 Formation React vs. Vue vs. Angular
+# 📚 Formation JS FRONTEND
 
+Merci de votre participation à cette formation. J’espère que celle-ci a répondu à vos attentes.
 
-## 🗒 Objectif des 3 jours qui viennent
+Vous trouverez dans ce dépôt Git tous les supports de formations et exercices que nous faits ensemble.
 
-- *Découverte* des 3 principaux frameworks JS : React, Vue et Angular.
-- *Comprendre* leurs principales fonctionnalités et leur "philosophie", pas devenir expert.
-- Être capable de *comparer* les 3 pour décider lequel utiliser.
+Merci de récupérer une copie si vous souhaitez le conserver. Ce dépôt sera effacé d'ici la fin de la semaine (2-FEB-2020).
 
+Si questions, n'hésitez pas à me contacter à `vinzcarre (a) gmail (point) com`.
 
-### 🎬 WOOCLAP: Avez-vous déjà utilisé React, Vue ou Angular ?
+Bonne continuation.
 
-Rendez-vous sur https://www.wooclap.com/.
-
-
-## 🗒 Nombre de téléchargements Npm
-
-Source : https://www.npmtrends.com/@angular/core-vs-angular-vs-react-vs-vue
-
-<img src="images/core-vs-angular-vs-react-vs-vue.png" class="img-fluid">
-
-Pourquoi faut-il relativiser ces chiffres ?
-
-
-## 🗒 The State of JavaScript 2019
-
-Source : https://2019.stateofjs.com/front-end-frameworks/
-
-<img src="images/stateofjs-2019_front-end-frameworks.png" class="img-fluid">
-
-Pourquoi faut-il relativiser ces chiffres ?
-
-
-## 🗒 Tableau de comparaison
-
-<img src="images/comparaison_react-vue-angular.png" class="img-fluid">
-
+— Vincent Caillierez
